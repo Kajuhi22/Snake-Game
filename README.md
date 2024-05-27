@@ -15,5 +15,4 @@ Components
 7. The game box is aligned to center
 8. Jframe is required
 9. On collision the game over will pop up / display .
-
-    **BY Pranai**
+   **Programmed By** 'Pranai'
