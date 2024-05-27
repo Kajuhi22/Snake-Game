@@ -1,3 +1,14 @@
+**Challanges Faced** :
+    -Creating my own  version of snake game based on the given source code.
+    -importing the nessesory modules
+    -setting up required jdk
+    -Changing color of score to random.
+    - modifying the shape of snake .
+    - changing color of snake head.
+    - Using nessesory dimensions.
+    
+    
+**Description** :
 Creating a Snake game in Java involves using a graphical library such as Swing to handle the GUI components and the game loop.
 Components
 - **GameFrame**: The main window that contains the game panel.
